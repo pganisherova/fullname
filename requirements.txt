@@ -1,2 +1,4 @@
 fastapi 
 unicorn
+httpx
+bs4
